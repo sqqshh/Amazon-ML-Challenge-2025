@@ -48,6 +48,8 @@ The final ensemble solution achieved approximately:
 SMAPE: 42.30
 ```
 
+![Leaderboard](assets/leaderboard.png)
+
 ---
 
 # Pipeline Overview
@@ -56,11 +58,6 @@ SMAPE: 42.30
 
 ---
 
-# Model Architecture
-
-![Architecture](assets/architecture.png)
-
----
 
 # Initial Approach — Semantic Search
 
