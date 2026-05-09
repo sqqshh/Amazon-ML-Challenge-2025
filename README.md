@@ -40,7 +40,7 @@ Evaluation Metric:
 
 # Final Ranking
 
-🏆 **Top 50 Global Rank**
+🏆 [**Top 50 Global Rank**](https://unstop.com/hackathons/crp-amazon-ml-challenge-2025-amazon-1560375/offline-round/1200466)
 
 The final ensemble solution achieved approximately:
 
